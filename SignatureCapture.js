@@ -3,9 +3,9 @@
 
 var ReactNative = require('react-native');
 var React = require('react');
-var {
-    PropTypes
-} = React;
+
+import PropTypes from 'prop-types'
+
 var {
     requireNativeComponent,
     View,
